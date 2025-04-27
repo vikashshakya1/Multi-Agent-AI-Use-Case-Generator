@@ -126,33 +126,9 @@ Final Output --> Use Cases + Datasets
 
 ---
 
-## 📋 Deliverables Checklist
-
-| Deliverable        | Status |
-|--------------------|--------|
-| Source Code        | ✅ Done |
-| Final Report (.md) | ✅ Done |
-| Architecture Flow  | ✅ Included |
-| Demo Video         | 🎥 To be recorded after Streamlit app is tested |
-
----
 
 ## ✍️ Author
 
 - **Vikash Shakya**  
 
 ---
-
-# 📢 Note:
-
-> Make sure your demo video shows the architecture diagram and the working app clearly!
-```
-
----
-
-✅ This is now perfectly formatted for a `.md` file. Just create a new `README.md`, **paste this**, and you're good to go!
-
----
-  
-Would you also like a ready-made `requirements.txt` too so you don’t miss anything when you submit? 🚀  
-Just say **"yes, send requirements"** if you want it! 📦
