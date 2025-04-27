@@ -20,7 +20,7 @@ instaresz-assignment/
 │   ├── market_standards_agent.py # Analyzes market trends and generates use cases
 │   └── resource_asset_agent.py   # Finds datasets/resources for use cases
 ├── outputs/
-│   └── resource_assets.md        # Collected datasets and references
+│   └── dataset_links.md        # Collected datasets and references
 ├── app.py                        # Streamlit app to run the system
 ├── main.py                       # Backend script to run the agents together
 ├── README.md                     # This file
